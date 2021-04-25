@@ -7,7 +7,7 @@ Tugas : Bahasa Pemograman
 
 1. Pertama
 
-(https://user-images.githubusercontent.com/81561687/115995739-a436c700-a606-11eb-8357-3c5cdd30d52e.PNG)
+![Uploading image.png…]()
 
 2. Kedua
 
